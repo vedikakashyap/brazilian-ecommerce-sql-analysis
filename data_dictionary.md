@@ -337,5 +337,3 @@ Based on data exploration, focus areas:
 5. **Payment Optimization:** Installment preferences vary by category
 
 ---
-
-**Questions or issues with this data dictionary? Document in GitHub Issues.**
