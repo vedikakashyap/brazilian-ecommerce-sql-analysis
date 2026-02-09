@@ -3,7 +3,7 @@
 ## Overview
 This dataset contains information about 100k orders from 2016 to 2018 made at Olist Store, a Brazilian e-commerce marketplace connecting small businesses to customers across Brazil.
 
-**Last Updated:** February 8, 2025  
+**Last Updated:** February 9, 2026
 **Data Period:** September 2016 - October 2018 (25 months)
 
 ---
