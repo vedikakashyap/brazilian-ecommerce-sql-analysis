@@ -9,7 +9,6 @@ Analysis of 100K+ e-commerce transactions from 2016-2018 to uncover customer beh
 3. Product Affinity Analysis
 4. RFM Customer Segmentation
 5. Seasonal Trends & Forecasting
-6. [List all 7]
 
 ## Tech Stack
 - MySQL 8.0
@@ -18,8 +17,8 @@ Analysis of 100K+ e-commerce transactions from 2016-2018 to uncover customer beh
 
 ## Current Progress
 - [x] Database setup
-- [ ] Schema design
-- [ ] Data loading
+- [X] Schema design
+- [X] Data loading
 - [ ] Analysis queries
 - [ ] Insights documentation
 
