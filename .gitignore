@@ -1,6 +1,6 @@
 # Ignore CSV data files
 *.csv
-*achieve.zip
+*archive.zip
 
 # Ignore system files
 .DS_Store
